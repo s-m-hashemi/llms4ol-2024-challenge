@@ -17,3 +17,7 @@ The repository is organized into the following folders:
  
 The dataset folder contains training and validation dataset generated from the provided training data by the challenge, which is available [here](https://github.com/HamedBabaei/LLMs4OL-Challenge-ISWC2024/tree/main/TaskB-Taxonomy%20Discovery/SubTask%20B.1(FS)%20-%20GeoNames). The test dataset is also available in the same place.
 
+## Citation
+If you use this repository in your research, please cite our paper:
+The paper information will be added soon.
+
