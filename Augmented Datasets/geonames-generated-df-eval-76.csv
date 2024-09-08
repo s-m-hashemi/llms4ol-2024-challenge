@@ -1,0 +1,153 @@
+parent,child,label
+"stream, lake",abandoned canal,True
+"stream, lake",sulphur spring(s),True
+"parks, area",region,True
+undersea,seachannel,True
+"parks, area",amusement park,True
+"mountain, hill, rock",corridor,True
+"stream, lake",marine channel,True
+"city, village",seat of a fourth-order administrative division,True
+"spot, building, farm",customs post,True
+undersea,spur,True
+"road, railroad",road bend,True
+"spot, building, farm",spillway,True
+"stream, lake",wadi,True
+"stream, lake",seaplane landing area,True
+"spot, building, farm",arch,True
+"parks, area",military base,True
+"spot, building, farm",medical center,True
+"spot, building, farm",landing,True
+"parks, area",coalfield,True
+"spot, building, farm",piece of art,True
+"parks, area",salt area,True
+"stream, lake",waterfall(s),True
+"spot, building, farm",hotel,True
+"spot, building, farm",cattle dipping tank,True
+"spot, building, farm",landfill,True
+undersea,ledge,True
+undersea,shoal,True
+"spot, building, farm",oil camp,True
+"spot, building, farm",border post,True
+"stream, lake",reef(s),True
+undersea,fracture zone,True
+"mountain, hill, rock",nunataks,True
+"stream, lake",lake,True
+undersea,reefs,True
+"spot, building, farm",sugar plantation,True
+"stream, lake",section of stream,True
+"road, railroad",natural tunnel,True
+"spot, building, farm",brewery,True
+"spot, building, farm",steps,True
+"stream, lake",salt ponds,True
+"stream, lake",aqueduct,True
+"stream, lake",sound,True
+"city, village",historical capital of a political entity,True
+"country, state, region",historical fourth-order administrative division,True
+"mountain, hill, rock",plain(s),True
+"mountain, hill, rock",mountains,True
+"stream, lake",marsh(es),True
+"spot, building, farm",abandoned mission,True
+"spot, building, farm",munitions plant,True
+"spot, building, farm",agricultural school,True
+"mountain, hill, rock",polder,True
+"spot, building, farm",facility center,True
+"stream, lake",drainage ditch,True
+"country, state, region",historical first-order administrative division,True
+"spot, building, farm",asylum,True
+"spot, building, farm",bridge,True
+"spot, building, farm",intersection,True
+"spot, building, farm",dam,True
+"stream, lake",icecap depression,True
+"spot, building, farm",local government office,True
+"spot, building, farm",boatyard,True
+"mountain, hill, rock",lava area,True
+"mountain, hill, rock",valleys,True
+"spot, building, farm",satellite station,True
+undersea,mountain,True
+"mountain, hill, rock",moraine,True
+"forest, heath",orchard(s),True
+"spot, building, farm",copper mine(s),True
+"spot, building, farm",experiment station,True
+"stream, lake",irrigation canal,True
+"mountain, hill, rock",ridge(s),True
+undersea,sill,True
+"spot, building, farm",ruined bridge,True
+"spot, building, farm",mall,True
+"parks, area",continent,True
+"forest, heath",forest(s),True
+abandoned canal,"stream, lake",False
+sulphur spring(s),"stream, lake",False
+region,"parks, area",False
+seachannel,undersea,False
+amusement park,"parks, area",False
+corridor,"mountain, hill, rock",False
+marine channel,"stream, lake",False
+seat of a fourth-order administrative division,"city, village",False
+customs post,"spot, building, farm",False
+spur,undersea,False
+road bend,"road, railroad",False
+spillway,"spot, building, farm",False
+wadi,"stream, lake",False
+seaplane landing area,"stream, lake",False
+arch,"spot, building, farm",False
+military base,"parks, area",False
+medical center,"spot, building, farm",False
+landing,"spot, building, farm",False
+coalfield,"parks, area",False
+piece of art,"spot, building, farm",False
+salt area,"parks, area",False
+waterfall(s),"stream, lake",False
+hotel,"spot, building, farm",False
+cattle dipping tank,"spot, building, farm",False
+landfill,"spot, building, farm",False
+"parks, area",abandoned canal,False
+"spot, building, farm",sulphur spring(s),False
+undersea,region,False
+"stream, lake",seachannel,False
+"mountain, hill, rock",amusement park,False
+"parks, area",corridor,False
+"parks, area",marine channel,False
+"forest, heath",seat of a fourth-order administrative division,False
+"mountain, hill, rock",customs post,False
+"road, railroad",spur,False
+"mountain, hill, rock",road bend,False
+"stream, lake",spillway,False
+"mountain, hill, rock",wadi,False
+"city, village",seaplane landing area,False
+undersea,arch,False
+"road, railroad",military base,False
+"parks, area",medical center,False
+"mountain, hill, rock",landing,False
+"country, state, region",coalfield,False
+"stream, lake",piece of art,False
+undersea,salt area,False
+"parks, area",waterfall(s),False
+"forest, heath",hotel,False
+"country, state, region",cattle dipping tank,False
+"road, railroad",landfill,False
+"spot, building, farm",ledge,False
+"parks, area",shoal,False
+"forest, heath",oil camp,False
+"road, railroad",border post,False
+undersea,reef(s),False
+"forest, heath",fracture zone,False
+"forest, heath",nunataks,False
+"parks, area",lake,False
+"road, railroad",reefs,False
+"road, railroad",sugar plantation,False
+"city, village",section of stream,False
+"stream, lake",natural tunnel,False
+"parks, area",brewery,False
+"road, railroad",steps,False
+"country, state, region",salt ponds,False
+"forest, heath",aqueduct,False
+"forest, heath",sound,False
+"spot, building, farm",historical capital of a political entity,False
+"parks, area",historical fourth-order administrative division,False
+"stream, lake",plain(s),False
+"city, village",mountains,False
+"spot, building, farm",marsh(es),False
+"road, railroad",abandoned mission,False
+"country, state, region",munitions plant,False
+"country, state, region",agricultural school,False
+undersea,polder,False

@@ -1,0 +1,801 @@
+parent,child,label
+"spot, building, farm",coal mine(s),True
+undersea,deep,True
+"spot, building, farm",free trade zone,True
+"spot, building, farm",leprosarium,True
+"forest, heath",tree(s),True
+"city, village",historical populated place,True
+"stream, lake",cutoff,True
+"city, village",capital of a political entity,True
+"spot, building, farm",airport,True
+"parks, area",peat cutting area,True
+"stream, lake",stream bend,True
+"spot, building, farm",oil palm plantation,True
+"spot, building, farm",triangulation station,True
+"mountain, hill, rock",pan,True
+"spot, building, farm",abandoned police post,True
+"mountain, hill, rock",divide,True
+undersea,fan,True
+"spot, building, farm",cemetery,True
+"spot, building, farm",mole,True
+"parks, area",concession area,True
+"stream, lake",canal tunnel,True
+"stream, lake",navigation channel,True
+"spot, building, farm",community center,True
+"spot, building, farm",storehouse,True
+"mountain, hill, rock",stony desert,True
+"spot, building, farm",scientific research base,True
+"stream, lake",current,True
+"stream, lake",coral reef(s),True
+"spot, building, farm",section of estate,True
+undersea,banks,True
+"spot, building, farm",sugar mill,True
+"spot, building, farm",oil pipeline terminal,True
+"spot, building, farm",gate,True
+"country, state, region",historical fifth-order administrative division,True
+"spot, building, farm",school,True
+"stream, lake",intermittent pond,True
+"spot, building, farm",office building,True
+"spot, building, farm",State Exam Prep Centre,True
+"mountain, hill, rock",plateau,True
+"spot, building, farm",palace,True
+"spot, building, farm",farmstead,True
+"spot, building, farm",sugar refinery,True
+"spot, building, farm",inspection station,True
+"stream, lake",salt lake,True
+"stream, lake",fishponds,True
+"parks, area",mining area,True
+undersea,rise,True
+"stream, lake",intermittent salt pond(s),True
+"stream, lake",anabranch,True
+"spot, building, farm",ferry,True
+"stream, lake",rapids,True
+"mountain, hill, rock",section of plateau,True
+"spot, building, farm",radio observatory,True
+"mountain, hill, rock",beaches,True
+"stream, lake",gulf,True
+"city, village",populated locality,True
+"stream, lake",well,True
+"parks, area",artillery range,True
+undersea,pinnacle,True
+"city, village",seat of a second-order administrative division,True
+"spot, building, farm",tram,True
+"stream, lake",intermittent oxbow lake,True
+"mountain, hill, rock",desert,True
+"spot, building, farm",rubber plantation,True
+undersea,continental rise,True
+"country, state, region",fifth-order administrative division,True
+"stream, lake",confluence,True
+"spot, building, farm",post office,True
+undersea,peaks,True
+"parks, area",field(s),True
+"spot, building, farm",sub-surface dam,True
+"spot, building, farm",quay,True
+"spot, building, farm",resort,True
+"mountain, hill, rock",karst area,True
+"parks, area",petroleum basin,True
+"stream, lake",canal bend,True
+"spot, building, farm",grave,True
+"parks, area",economic region,True
+"spot, building, farm",barracks,True
+"spot, building, farm",wreck,True
+undersea,shelf edge,True
+"stream, lake",crater lakes,True
+"stream, lake",fjord,True
+"spot, building, farm",religious center,True
+"mountain, hill, rock",gorge(s),True
+"country, state, region",dependent political entity,True
+"stream, lake",salt marsh,True
+"spot, building, farm",former sugar mill,True
+"mountain, hill, rock",bar,True
+"road, railroad",railroad junction,True
+"spot, building, farm",nuclear power station,True
+"spot, building, farm",guest house,True
+"forest, heath",vineyard,True
+"spot, building, farm",lock(s),True
+"stream, lake",intermittent stream,True
+"spot, building, farm",leper colony,True
+"spot, building, farm",castle,True
+"spot, building, farm",abandoned mine,True
+"spot, building, farm",ancient wall,True
+"mountain, hill, rock",talus slope,True
+"spot, building, farm",space center,True
+undersea,furrow,True
+"spot, building, farm",abandoned farm,True
+"stream, lake",bays,True
+"stream, lake",fjords,True
+undersea,gully,True
+"stream, lake",mud flat(s),True
+"stream, lake",section of wadi,True
+"spot, building, farm",foundry,True
+"spot, building, farm",prison,True
+"road, railroad",railroad yard,True
+"spot, building, farm",military installation,True
+"parks, area",locality,True
+"parks, area",forest reserve,True
+"spot, building, farm",breakwater,True
+"mountain, hill, rock",hill,True
+"spot, building, farm",temp work office,True
+undersea,saddle,True
+"forest, heath",tundra,True
+"spot, building, farm",mosque,True
+"stream, lake",icecap ridge,True
+"spot, building, farm",dike,True
+"parks, area",grazing area,True
+"stream, lake",navigation canal(s),True
+"spot, building, farm",synagogue,True
+"mountain, hill, rock",escarpment,True
+"mountain, hill, rock",butte(s),True
+"mountain, hill, rock",slide,True
+"mountain, hill, rock",hammock(s),True
+"mountain, hill, rock",peninsula,True
+"spot, building, farm",hermitage,True
+undersea,flat,True
+"spot, building, farm",baling station,True
+"mountain, hill, rock",pass,True
+"spot, building, farm",sanatorium,True
+"spot, building, farm",museum,True
+"spot, building, farm",zoo,True
+undersea,hills,True
+"spot, building, farm",amphitheater,True
+"spot, building, farm",mission,True
+"parks, area",agricultural colony,True
+"spot, building, farm",church,True
+"mountain, hill, rock",atoll(s),True
+"spot, building, farm",spa,True
+"stream, lake",reach,True
+"stream, lake",icecap dome,True
+"mountain, hill, rock",peak,True
+undersea,bank,True
+"spot, building, farm",clinic,True
+"stream, lake",wells,True
+"mountain, hill, rock",interfluve,True
+"stream, lake",strait,True
+"stream, lake",spring(s),True
+"mountain, hill, rock",mesa(s),True
+"spot, building, farm",iron mine(s),True
+"mountain, hill, rock",volcano,True
+"spot, building, farm",golf course,True
+"parks, area",agricultural reserve,True
+undersea,terrace,True
+"mountain, hill, rock",points,True
+"spot, building, farm",house(s),True
+"parks, area",tribal area,True
+"parks, area",industrial area,True
+"parks, area",palm tree reserve,True
+"spot, building, farm",heliport,True
+"spot, building, farm",oil refinery,True
+undersea,province,True
+"city, village",farm village,True
+"parks, area",snowfield,True
+"spot, building, farm",research institute,True
+"stream, lake",ocean,True
+"stream, lake",salt lakes,True
+"mountain, hill, rock",islands,True
+"spot, building, farm",copper works,True
+"mountain, hill, rock",upland,True
+"spot, building, farm",abandoned airfield,True
+"spot, building, farm",airbase,True
+"spot, building, farm",abandoned prison,True
+"forest, heath",meadow,True
+"stream, lake",drainage canal,True
+"mountain, hill, rock",shore,True
+undersea,trench,True
+"stream, lake",icecap,True
+"mountain, hill, rock",section of plain,True
+"city, village",section of populated place,True
+"spot, building, farm",ferry terminal,True
+"country, state, region",third-order administrative division,True
+"road, railroad",road,True
+"mountain, hill, rock",boulder field,True
+"spot, building, farm",burial cave(s),True
+"mountain, hill, rock",mound(s),True
+"spot, building, farm",stadium,True
+"spot, building, farm",farm,True
+"stream, lake",tidal flat(s),True
+"mountain, hill, rock",rocks,True
+"spot, building, farm",corral(s),True
+"mountain, hill, rock",point,True
+"spot, building, farm",labor camp,True
+undersea,apron,True
+"country, state, region",territory,True
+"mountain, hill, rock",meander neck,True
+"spot, building, farm",store,True
+"spot, building, farm",pyramids,True
+undersea,hill,True
+"stream, lake",intermittent ponds,True
+"country, state, region",freely associated state,True
+"forest, heath",olive grove,True
+"stream, lake",cove(s),True
+"parks, area",quicksand,True
+undersea,hole,True
+"spot, building, farm",mine(s),True
+"spot, building, farm",camp(s),True
+"road, railroad",tunnels,True
+"stream, lake",inlet,True
+"parks, area",historical region,True
+"stream, lake",underground irrigation canal(s),True
+"spot, building, farm",archive,True
+"spot, building, farm",hospital,True
+"stream, lake",canal,True
+"spot, building, farm",radio station,True
+"stream, lake",water tank,True
+"spot, building, farm",mill(s),True
+"city, village",seat of a third-order administrative division,True
+"stream, lake",reservoir(s),True
+undersea,valley,True
+"spot, building, farm",atomic center,True
+"spot, building, farm",ore treatment plant,True
+"forest, heath",grassland,True
+undersea,ridge,True
+"spot, building, farm",dispensary,True
+undersea,tongue,True
+"stream, lake",ravine(s),True
+"spot, building, farm",railroad signal,True
+"parks, area",irrigated field(s),True
+"spot, building, farm",cannery,True
+"road, railroad",road junction,True
+"spot, building, farm",aquaculture facility,True
+"spot, building, farm",sheepfold,True
+"parks, area",maneuver area,True
+"spot, building, farm",retreat,True
+"spot, building, farm",racetrack,True
+"spot, building, farm",factory,True
+"stream, lake",lost river,True
+"mountain, hill, rock",fan(s),True
+"spot, building, farm",rookery,True
+"spot, building, farm",garden(s),True
+"spot, building, farm",college,True
+"stream, lake",moor(s),True
+"mountain, hill, rock",asphalt lake,True
+"city, village",destroyed populated place,True
+undersea,shoals,True
+"mountain, hill, rock",cone(s),True
+"road, railroad",stock route,True
+"stream, lake",headwaters,True
+"stream, lake",pond,True
+"stream, lake",section of bank,True
+"mountain, hill, rock",crater(s),True
+"stream, lake",anchorage,True
+"forest, heath",bush(es),True
+"stream, lake",streams,True
+"road, railroad",railroad,True
+"mountain, hill, rock",interdune trough(s),True
+"mountain, hill, rock",fissure,True
+"mountain, hill, rock",sandy desert,True
+"country, state, region",administrative division,True
+"forest, heath",coconut grove,True
+"city, village",seat of a fifth-order administrative division,True
+"spot, building, farm",chrome mine(s),True
+"spot, building, farm",pagoda,True
+"spot, building, farm",wharf(-ves),True
+"mountain, hill, rock",peaks,True
+"road, railroad",caravan route,True
+"parks, area",oilfield,True
+"spot, building, farm",halting place,True
+"road, railroad",portage,True
+"stream, lake",salt pond,True
+"mountain, hill, rock",rock,True
+"spot, building, farm",religious site,True
+"stream, lake",wadi mouth,True
+"stream, lake",ponds,True
+"stream, lake",abandoned well,True
+"spot, building, farm",customs house,True
+"spot, building, farm",abandoned railroad station,True
+undersea,mound,True
+"road, railroad",tunnel,True
+"mountain, hill, rock",spur(s),True
+"mountain, hill, rock",cirque,True
+"country, state, region",fourth-order administrative division,True
+"stream, lake",roadstead,True
+"stream, lake",lagoons,True
+undersea,canyon,True
+"spot, building, farm",university,True
+"mountain, hill, rock",beach ridge,True
+"spot, building, farm",quarry(-ies),True
+"spot, building, farm",ranch(es),True
+"spot, building, farm",novitiate,True
+"forest, heath",palm grove,True
+"country, state, region",leased area,True
+"spot, building, farm",bus station,True
+"spot, building, farm",abandoned camp,True
+"mountain, hill, rock",cuesta(s),True
+"forest, heath",cultivated area,True
+"forest, heath",fossilized forest,True
+"country, state, region",buffer zone,True
+undersea,arch,True
+"forest, heath",heath,True
+undersea,valleys,True
+"spot, building, farm",cairn,True
+"stream, lake",narrows,True
+"spot, building, farm",railroad siding,True
+"spot, building, farm",logging camp,True
+"stream, lake",bog(s),True
+"stream, lake",fishing area,True
+undersea,tablemounts (or guyots),True
+"stream, lake",dock(s),True
+"spot, building, farm",homestead,True
+"stream, lake",abandoned watercourse,True
+"parks, area",reserve,True
+undersea,peak,True
+"spot, building, farm",athletic field,True
+undersea,levee,True
+"spot, building, farm",parking lot,True
+"spot, building, farm",phosphate works,True
+"spot, building, farm",traffic circle,True
+"road, railroad",road cut,True
+undersea,seamount,True
+"spot, building, farm",square,True
+"spot, building, farm",bus stop,True
+"stream, lake",glacier(s),True
+"stream, lake",lake channel(s),True
+"spot, building, farm",weir(s),True
+"city, village",populated place,True
+undersea,seamounts,True
+"spot, building, farm",pier,True
+"stream, lake",geyser,True
+"spot, building, farm",opera house,True
+"spot, building, farm",tea plantation,True
+"stream, lake",shoal(s),True
+"spot, building, farm",courthouse,True
+"stream, lake",section of lagoon,True
+"parks, area",drainage basin,True
+"spot, building, farm",convent,True
+undersea,slope,True
+"spot, building, farm",oil pumping station,True
+"stream, lake",channel,True
+"spot, building, farm",market,True
+"spot, building, farm",whaling station,True
+"stream, lake",former inlet,True
+"stream, lake",irrigation system,True
+"spot, building, farm",salt mine(s),True
+"spot, building, farm",water pumping station,True
+undersea,arrugado,True
+"spot, building, farm",hut,True
+"mountain, hill, rock",saddle,True
+"spot, building, farm",shrine,True
+"forest, heath",scrubland,True
+"spot, building, farm",sewage treatment plant,True
+"stream, lake",sill,True
+"spot, building, farm",police post,True
+"stream, lake",waterhole(s),True
+undersea,plateau,True
+"road, railroad",trail,True
+"spot, building, farm",boundary marker,True
+"spot, building, farm",lighthouse,True
+"mountain, hill, rock",depression(s),True
+undersea,knolls,True
+"parks, area",common,True
+"stream, lake",pool(s),True
+"stream, lake",intermittent pool,True
+"spot, building, farm",gold mine(s),True
+"parks, area",port,True
+"country, state, region",historical political entity,True
+"stream, lake",sabkha(s),True
+undersea,cordillera,True
+"spot, building, farm",railroad stop,True
+"parks, area",naval base,True
+"parks, area",housing development,True
+"spot, building, farm",dockyard,True
+"stream, lake",wadi junction,True
+"stream, lake",distributary(-ies),True
+"stream, lake",section of intermittent stream,True
+"stream, lake",intermittent lake,True
+undersea,moat,True
+"spot, building, farm",university prep school,True
+"spot, building, farm",meteorological station,True
+"stream, lake",hot spring(s),True
+"spot, building, farm",abandoned factory,True
+"spot, building, farm",ghat,True
+"stream, lake",salt evaporation ponds,True
+"stream, lake",lagoon,True
+"spot, building, farm",reformatory,True
+undersea,shelf valley,True
+undersea,shelf,True
+"mountain, hill, rock",land-tied island,True
+"spot, building, farm",cave(s),True
+"spot, building, farm",railroad station,True
+"parks, area",gravel area,True
+"parks, area",nature reserve,True
+"spot, building, farm",maritime school,True
+"mountain, hill, rock",slope(s),True
+coal mine(s),"spot, building, farm",False
+deep,undersea,False
+free trade zone,"spot, building, farm",False
+leprosarium,"spot, building, farm",False
+tree(s),"forest, heath",False
+historical populated place,"city, village",False
+cutoff,"stream, lake",False
+capital of a political entity,"city, village",False
+airport,"spot, building, farm",False
+peat cutting area,"parks, area",False
+stream bend,"stream, lake",False
+oil palm plantation,"spot, building, farm",False
+triangulation station,"spot, building, farm",False
+pan,"mountain, hill, rock",False
+abandoned police post,"spot, building, farm",False
+divide,"mountain, hill, rock",False
+fan,undersea,False
+cemetery,"spot, building, farm",False
+mole,"spot, building, farm",False
+concession area,"parks, area",False
+canal tunnel,"stream, lake",False
+navigation channel,"stream, lake",False
+community center,"spot, building, farm",False
+storehouse,"spot, building, farm",False
+stony desert,"mountain, hill, rock",False
+scientific research base,"spot, building, farm",False
+current,"stream, lake",False
+coral reef(s),"stream, lake",False
+section of estate,"spot, building, farm",False
+banks,undersea,False
+sugar mill,"spot, building, farm",False
+oil pipeline terminal,"spot, building, farm",False
+gate,"spot, building, farm",False
+historical fifth-order administrative division,"country, state, region",False
+school,"spot, building, farm",False
+intermittent pond,"stream, lake",False
+office building,"spot, building, farm",False
+State Exam Prep Centre,"spot, building, farm",False
+plateau,"mountain, hill, rock",False
+palace,"spot, building, farm",False
+farmstead,"spot, building, farm",False
+sugar refinery,"spot, building, farm",False
+inspection station,"spot, building, farm",False
+salt lake,"stream, lake",False
+fishponds,"stream, lake",False
+mining area,"parks, area",False
+rise,undersea,False
+intermittent salt pond(s),"stream, lake",False
+anabranch,"stream, lake",False
+ferry,"spot, building, farm",False
+rapids,"stream, lake",False
+section of plateau,"mountain, hill, rock",False
+radio observatory,"spot, building, farm",False
+beaches,"mountain, hill, rock",False
+gulf,"stream, lake",False
+populated locality,"city, village",False
+well,"stream, lake",False
+artillery range,"parks, area",False
+pinnacle,undersea,False
+seat of a second-order administrative division,"city, village",False
+tram,"spot, building, farm",False
+intermittent oxbow lake,"stream, lake",False
+desert,"mountain, hill, rock",False
+rubber plantation,"spot, building, farm",False
+continental rise,undersea,False
+fifth-order administrative division,"country, state, region",False
+confluence,"stream, lake",False
+post office,"spot, building, farm",False
+peaks,undersea,False
+field(s),"parks, area",False
+sub-surface dam,"spot, building, farm",False
+quay,"spot, building, farm",False
+resort,"spot, building, farm",False
+karst area,"mountain, hill, rock",False
+petroleum basin,"parks, area",False
+canal bend,"stream, lake",False
+grave,"spot, building, farm",False
+economic region,"parks, area",False
+barracks,"spot, building, farm",False
+wreck,"spot, building, farm",False
+shelf edge,undersea,False
+crater lakes,"stream, lake",False
+fjord,"stream, lake",False
+religious center,"spot, building, farm",False
+gorge(s),"mountain, hill, rock",False
+dependent political entity,"country, state, region",False
+salt marsh,"stream, lake",False
+former sugar mill,"spot, building, farm",False
+bar,"mountain, hill, rock",False
+railroad junction,"road, railroad",False
+nuclear power station,"spot, building, farm",False
+guest house,"spot, building, farm",False
+vineyard,"forest, heath",False
+lock(s),"spot, building, farm",False
+intermittent stream,"stream, lake",False
+leper colony,"spot, building, farm",False
+castle,"spot, building, farm",False
+abandoned mine,"spot, building, farm",False
+ancient wall,"spot, building, farm",False
+talus slope,"mountain, hill, rock",False
+space center,"spot, building, farm",False
+furrow,undersea,False
+abandoned farm,"spot, building, farm",False
+bays,"stream, lake",False
+fjords,"stream, lake",False
+gully,undersea,False
+mud flat(s),"stream, lake",False
+section of wadi,"stream, lake",False
+foundry,"spot, building, farm",False
+prison,"spot, building, farm",False
+railroad yard,"road, railroad",False
+military installation,"spot, building, farm",False
+locality,"parks, area",False
+forest reserve,"parks, area",False
+breakwater,"spot, building, farm",False
+hill,"mountain, hill, rock",False
+temp work office,"spot, building, farm",False
+saddle,undersea,False
+tundra,"forest, heath",False
+mosque,"spot, building, farm",False
+icecap ridge,"stream, lake",False
+dike,"spot, building, farm",False
+grazing area,"parks, area",False
+navigation canal(s),"stream, lake",False
+synagogue,"spot, building, farm",False
+escarpment,"mountain, hill, rock",False
+butte(s),"mountain, hill, rock",False
+slide,"mountain, hill, rock",False
+hammock(s),"mountain, hill, rock",False
+peninsula,"mountain, hill, rock",False
+hermitage,"spot, building, farm",False
+flat,undersea,False
+baling station,"spot, building, farm",False
+"parks, area",coal mine(s),False
+"road, railroad",deep,False
+"country, state, region",free trade zone,False
+"road, railroad",leprosarium,False
+"stream, lake",tree(s),False
+"parks, area",historical populated place,False
+"mountain, hill, rock",cutoff,False
+"road, railroad",capital of a political entity,False
+"forest, heath",airport,False
+"spot, building, farm",peat cutting area,False
+"forest, heath",stream bend,False
+"road, railroad",oil palm plantation,False
+undersea,triangulation station,False
+"road, railroad",pan,False
+"city, village",abandoned police post,False
+"parks, area",divide,False
+"city, village",fan,False
+"mountain, hill, rock",cemetery,False
+"forest, heath",mole,False
+"country, state, region",concession area,False
+"forest, heath",canal tunnel,False
+"city, village",navigation channel,False
+"country, state, region",community center,False
+"mountain, hill, rock",storehouse,False
+"road, railroad",stony desert,False
+"parks, area",scientific research base,False
+"city, village",current,False
+"spot, building, farm",coral reef(s),False
+undersea,section of estate,False
+"forest, heath",banks,False
+"stream, lake",sugar mill,False
+undersea,oil pipeline terminal,False
+"city, village",gate,False
+"parks, area",historical fifth-order administrative division,False
+"parks, area",school,False
+"mountain, hill, rock",intermittent pond,False
+"parks, area",office building,False
+"stream, lake",State Exam Prep Centre,False
+"stream, lake",plateau,False
+"mountain, hill, rock",palace,False
+"country, state, region",farmstead,False
+"stream, lake",sugar refinery,False
+"road, railroad",inspection station,False
+"forest, heath",salt lake,False
+"road, railroad",fishponds,False
+"mountain, hill, rock",mining area,False
+"city, village",rise,False
+"spot, building, farm",intermittent salt pond(s),False
+"parks, area",anabranch,False
+undersea,ferry,False
+"road, railroad",rapids,False
+"stream, lake",section of plateau,False
+"forest, heath",radio observatory,False
+undersea,beaches,False
+"spot, building, farm",gulf,False
+"road, railroad",populated locality,False
+"country, state, region",well,False
+"country, state, region",artillery range,False
+"city, village",pinnacle,False
+"parks, area",seat of a second-order administrative division,False
+"forest, heath",tram,False
+undersea,intermittent oxbow lake,False
+"forest, heath",desert,False
+"forest, heath",rubber plantation,False
+"parks, area",continental rise,False
+"city, village",fifth-order administrative division,False
+"forest, heath",confluence,False
+undersea,post office,False
+"forest, heath",peaks,False
+"country, state, region",field(s),False
+"city, village",sub-surface dam,False
+"mountain, hill, rock",quay,False
+"city, village",resort,False
+"parks, area",karst area,False
+"mountain, hill, rock",petroleum basin,False
+"parks, area",canal bend,False
+undersea,grave,False
+"mountain, hill, rock",economic region,False
+undersea,barracks,False
+"mountain, hill, rock",wreck,False
+"road, railroad",shelf edge,False
+"country, state, region",crater lakes,False
+"mountain, hill, rock",fjord,False
+"city, village",religious center,False
+"parks, area",gorge(s),False
+"mountain, hill, rock",dependent political entity,False
+"city, village",salt marsh,False
+"mountain, hill, rock",former sugar mill,False
+"city, village",bar,False
+"country, state, region",railroad junction,False
+"mountain, hill, rock",nuclear power station,False
+"city, village",guest house,False
+"mountain, hill, rock",vineyard,False
+"forest, heath",lock(s),False
+"mountain, hill, rock",intermittent stream,False
+"road, railroad",leper colony,False
+"city, village",castle,False
+"road, railroad",abandoned mine,False
+"stream, lake",ancient wall,False
+"city, village",talus slope,False
+"parks, area",space center,False
+"road, railroad",furrow,False
+"road, railroad",abandoned farm,False
+undersea,bays,False
+"road, railroad",fjords,False
+"parks, area",gully,False
+"forest, heath",mud flat(s),False
+"parks, area",section of wadi,False
+"road, railroad",foundry,False
+"parks, area",prison,False
+"mountain, hill, rock",railroad yard,False
+"country, state, region",military installation,False
+"forest, heath",locality,False
+"city, village",forest reserve,False
+"country, state, region",breakwater,False
+"road, railroad",hill,False
+"mountain, hill, rock",temp work office,False
+"parks, area",saddle,False
+undersea,tundra,False
+"country, state, region",mosque,False
+"mountain, hill, rock",icecap ridge,False
+"country, state, region",dike,False
+"spot, building, farm",grazing area,False
+"mountain, hill, rock",navigation canal(s),False
+"country, state, region",synagogue,False
+"city, village",escarpment,False
+"stream, lake",butte(s),False
+"country, state, region",slide,False
+"city, village",hammock(s),False
+"city, village",peninsula,False
+undersea,hermitage,False
+"stream, lake",flat,False
+"parks, area",baling station,False
+"spot, building, farm",pass,False
+"city, village",sanatorium,False
+undersea,museum,False
+"city, village",zoo,False
+"spot, building, farm",hills,False
+"stream, lake",amphitheater,False
+"city, village",mission,False
+"spot, building, farm",agricultural colony,False
+"city, village",church,False
+"road, railroad",atoll(s),False
+"road, railroad",spa,False
+"forest, heath",reach,False
+"forest, heath",icecap dome,False
+"country, state, region",peak,False
+"stream, lake",bank,False
+"forest, heath",clinic,False
+"country, state, region",wells,False
+"spot, building, farm",interfluve,False
+"spot, building, farm",strait,False
+"city, village",spring(s),False
+"stream, lake",mesa(s),False
+"road, railroad",iron mine(s),False
+"spot, building, farm",volcano,False
+"forest, heath",golf course,False
+"forest, heath",agricultural reserve,False
+"stream, lake",terrace,False
+"stream, lake",points,False
+"parks, area",house(s),False
+"mountain, hill, rock",tribal area,False
+"stream, lake",industrial area,False
+"forest, heath",palm tree reserve,False
+"country, state, region",heliport,False
+"forest, heath",oil refinery,False
+"city, village",province,False
+"forest, heath",farm village,False
+"road, railroad",snowfield,False
+"forest, heath",research institute,False
+"country, state, region",ocean,False
+"spot, building, farm",salt lakes,False
+"forest, heath",islands,False
+"stream, lake",copper works,False
+undersea,upland,False
+"parks, area",abandoned airfield,False
+"forest, heath",airbase,False
+"country, state, region",abandoned prison,False
+"road, railroad",meadow,False
+undersea,drainage canal,False
+"parks, area",shore,False
+"mountain, hill, rock",trench,False
+"city, village",icecap,False
+"city, village",section of plain,False
+undersea,section of populated place,False
+"parks, area",ferry terminal,False
+"forest, heath",third-order administrative division,False
+"parks, area",road,False
+"country, state, region",boulder field,False
+"parks, area",burial cave(s),False
+"forest, heath",mound(s),False
+"parks, area",stadium,False
+"stream, lake",farm,False
+"city, village",tidal flat(s),False
+"city, village",rocks,False
+"city, village",corral(s),False
+"spot, building, farm",point,False
+undersea,labor camp,False
+"parks, area",apron,False
+"forest, heath",territory,False
+"road, railroad",meander neck,False
+"city, village",store,False
+"mountain, hill, rock",pyramids,False
+"forest, heath",hill,False
+"road, railroad",intermittent ponds,False
+"spot, building, farm",freely associated state,False
+"spot, building, farm",olive grove,False
+"spot, building, farm",cove(s),False
+"city, village",quicksand,False
+"stream, lake",hole,False
+undersea,mine(s),False
+"parks, area",camp(s),False
+"city, village",tunnels,False
+undersea,inlet,False
+"road, railroad",historical region,False
+"spot, building, farm",underground irrigation canal(s),False
+"mountain, hill, rock",archive,False
+undersea,hospital,False
+undersea,canal,False
+"city, village",radio station,False
+"forest, heath",water tank,False
+"city, village",mill(s),False
+"spot, building, farm",seat of a third-order administrative division,False
+"parks, area",reservoir(s),False
+"country, state, region",valley,False
+"road, railroad",atomic center,False
+"parks, area",ore treatment plant,False
+"road, railroad",grassland,False
+"road, railroad",ridge,False
+"city, village",dispensary,False
+"forest, heath",tongue,False
+"road, railroad",ravine(s),False
+"stream, lake",railroad signal,False
+"mountain, hill, rock",irrigated field(s),False
+"parks, area",cannery,False
+undersea,road junction,False
+undersea,aquaculture facility,False
+"country, state, region",sheepfold,False
+"country, state, region",maneuver area,False
+"road, railroad",retreat,False
+"parks, area",racetrack,False
+"city, village",factory,False
+"spot, building, farm",lost river,False
+"forest, heath",fan(s),False
+"mountain, hill, rock",rookery,False
+"parks, area",garden(s),False
+"forest, heath",college,False
+"spot, building, farm",moor(s),False
+"spot, building, farm",asphalt lake,False
+"parks, area",destroyed populated place,False
+"stream, lake",shoals,False
+"forest, heath",cone(s),False
+"stream, lake",stock route,False
+undersea,headwaters,False
+"country, state, region",pond,False
+"spot, building, farm",section of bank,False
+"city, village",crater(s),False
+"road, railroad",anchorage,False
+"spot, building, farm",bush(es),False
+"spot, building, farm",streams,False
+"spot, building, farm",railroad,False
+"forest, heath",interdune trough(s),False
+"country, state, region",fissure,False
+"spot, building, farm",sandy desert,False
+"forest, heath",administrative division,False
+"parks, area",coconut grove,False
+"parks, area",seat of a fifth-order administrative division,False
