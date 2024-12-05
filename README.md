@@ -19,5 +19,15 @@ The dataset folder contains training and validation dataset generated from the p
 
 ## Citation
 If you use this repository in your research, please cite our paper:
-The paper information will be added soon.
+
+``` bibtex
+@inproceedings{hashemi2024skh,
+  title={Skh-nlp at llms4ol 2024 task b: Taxonomy discovery in ontologies using bert and llama 3},
+  author={Hashemi, Seyed Mohammad Hossein and Manesh, Mostafa Karimi and Shamsfard, Mehrnoush},
+  booktitle={Open Conference Proceedings},
+  volume={4},
+  pages={103--111},
+  year={2024}
+}
+```
 
