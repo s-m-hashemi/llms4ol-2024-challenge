@@ -1,6 +1,6 @@
 # Taxonomy Discovery in Ontologies Using BERT and LLaMA 3
 
-This repository contains the augmented datasets and implementations of the models used in our research paper "SKH-NLP at LLMs4OL 2024 Task B: Taxonomy Discovery in Ontologies Using BERT and LLaMA 3" as part of the LLMs4OL 2024 Challenge @ ISWC Conference. The paper introduces two approaches for taxonomy discovery, based on BERT-Large and LLaMA 3 70B models.
+This repository contains the augmented datasets and implementations of the models used in our research paper "[SKH-NLP at LLMs4OL 2024 Task B: Taxonomy Discovery in Ontologies Using BERT and LLaMA 3](https://www.tib-op.org/ojs/index.php/ocp/article/view/2483)" as part of the LLMs4OL 2024 Challenge @ ISWC Conference. The paper introduces two approaches for taxonomy discovery, based on BERT-Large and LLaMA 3 70B models.
 
 ## Challenge Overview
 
