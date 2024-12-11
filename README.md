@@ -31,3 +31,6 @@ If you use this repository in your research, please cite our paper:
 }
 ```
 
+
+## License
+This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
